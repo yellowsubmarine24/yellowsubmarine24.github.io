@@ -6,19 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://yellowsubmarine24.github.io/categories/cat_coder.xml</loc>
-  <lastmod>2016-03-04T01:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://yellowsubmarine24.github.io/categories/nikola.xml</loc>
-  <lastmod>2016-03-04T01:56:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://yellowsubmarine24.github.io/rss.xml</loc>
-  <lastmod>2016-03-04T01:56:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://yellowsubmarine24.github.io/sitemap.xml</loc>
-  <lastmod>2016-03-04T02:20:00Z</lastmod>
+  <lastmod>2016-03-04T02:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
